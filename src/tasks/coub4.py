@@ -1,4 +1,4 @@
-import turtle
+import scrambambas
 
 t = turtle.Turtle()
 wn = turtle.Screen()
@@ -14,26 +14,34 @@ t.goto(200, 200)
 t.down()
 
 t.right(45)
-t.right(180)
-t.right(135)
+t.forward(100)
+t.backward(100)
+t.forward(100)
+t.left(45)
 t.forward(stepLength)
 
 t.right(turnAngel)
 t.right(45)
-t.right(180)
-t.right(135)
+t.forward(100)
+t.backward(100)
+t.forward(100)
+t.left(45)
 t.forward(stepLength)
 
 t.right(turnAngel)
 t.right(45)
-t.right(180)
-t.right(135)
+t.forward(100)
+t.backward(100)
+t.forward(100)
+t.left(45)
 t.forward(stepLength)
 
 t.right(turnAngel)
 t.right(45)
-t.right(180)
-t.right(135)
+t.forward(100)
+t.backward(100)
+t.forward(100)
+t.left(45)
 t.forward(stepLength)
 
 t.right(turnAngel)

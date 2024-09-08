@@ -10,17 +10,12 @@ my_turtle = turtle.Turtle()
 
 my_turtle.down()
 
+my_turtle.forward(200)
 
+my_turtle.up()
+my_turtle.left(90)
 my_turtle.forward(100)
-my_turtle.right(90)
+my_turtle.down()
 
-my_turtle.forward(100)
-my_turtle.right(90)
-
-my_turtle.forward(100)
-my_turtle.right(90)
-
-my_turtle.forward(100)
-my_turtle.right(90)
-
-wn.mainloop()
+my_turtle.left(90)
+my_turtle.forward(200)
